@@ -1,1 +1,19 @@
 /* style.css */
+.odd {
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+    background-color: pink;
+}
+
+#even1 {
+    color: blue;
+    font-size: 36px;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#even2 {
+    background-color: lightgreen;
+    font-weight: bold;
+}
